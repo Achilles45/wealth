@@ -14,7 +14,7 @@
                  <!-- <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>cashmarketinvestment@gmail.com</p> -->
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:07018881982"> 07018881982</a></p>
+                <p><a href="tel:08168864842"> 08168864842</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>

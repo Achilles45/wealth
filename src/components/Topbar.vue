@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-3">
-                 <i class="fa fa-phone"></i>&nbsp;&nbsp; 07018881982&nbsp;  (Mon - Sun, &nbsp; 24/7)
+                 <i class="fa fa-phone"></i>&nbsp;&nbsp; 08168864842&nbsp;  (Mon - Sun, &nbsp; 24/7)
             </div>
             <!-- <div class="col-md-3">
                  <i class="fa fa-envelope"></i>&nbsp;&nbsp; cashmarketinvestment@gmail.com
