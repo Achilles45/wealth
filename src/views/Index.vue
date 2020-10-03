@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <Overlay />
-    <!-- <Topbar />
+    <!-- <Overlay /> -->
+    <Topbar />
     <Navbar />
     <Banner />
     <Intro />
@@ -10,7 +10,7 @@
     <Gallery />
     <Counter />
     <Testimonial />
-    <Footer /> -->
+    <Footer />
   </div>
 </template>
 
